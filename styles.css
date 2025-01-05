@@ -1,0 +1,15 @@
+#container {
+    border: 2px solid black;
+    box-sizing: border-box; 
+}
+
+.gridsquare {
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+body{
+    align-content: center;
+    justify-content: center;
+    display: flex;
+
+}
