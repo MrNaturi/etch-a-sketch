@@ -13,3 +13,6 @@ body{
     display: flex;
 
 }
+.gridsquare:hover{
+    background-color: black;
+}
